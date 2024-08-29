@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{0B0E15D3-5F53-4BF5-84B0-37E1575A3C2C}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DbOperationsWithCore FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DbOperationsWithCore/appsettings.json">
+    <Files>
+      <File FileName="DbOperationsWithCore/Program.cs" Line="1" Column="1" />
+      <File FileName="DbOperationsWithCore/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DbOperationsWithCore" expanded="True">
+            <Node name="DbOperationsWithCore">
+              <Node name="Dependencies" expanded="True" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
